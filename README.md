@@ -2,6 +2,9 @@
 
 This project analyzes stock price change and hiring trends of organizations using PySpark. The analysis consists of preprocessing LinkedIn data, preprocessing Stocks data, and merging the processed data into a final data frame for further analysis or model training. 
 
+COLAB LINK:     https://colab.research.google.com/drive/1KOn8WThHYhTkf1BgE0qLzhpqbWWlyaYb
+
+
 ## Dataset
 
 The datasets are based on the LinkedIn and Stocks data for multiple organizations across several years.
